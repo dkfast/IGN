@@ -1,0 +1,20 @@
+1) How many pennies could you put on the Golden Gate Bridge without any of them overlapping? For this question, please write out each step in your thought process.
+
+A penny's diameter is .75 in. I googled the length and width of the golden gate bridge which is 8981x90 ft. I will add 10 inches to the 90 for tops of hand rails and the outer barrier where 2 would imagine we could fit at least 2 (side by side) on each hand rail and 3 on each side wall. So after doing the math it comes out to (about) 1,197,467 pennies.
+
+2) Our images have a ratio of 16:9, and our design layouts have 12 pixel wide increments (there are no limits on height). Give examples of three image sizes that would have the correct ratio and would fit the design layout.
+
+1440x960
+720x480
+288x192
+
+3) What is the minimum number of moves required for a knight to cover the entire chess board? Write a program to prove it. Provide a graph with the move number on the x axis and the number of squares covered on the y axis.
+
+My answer is 33 moves,  which i got by drawing out a chessboard and manually moving to each next possible area that a knight could with overlapping the minimum squares needed. I did this with the assumption that it was not needed to stop on each square, but just pass overtop each square on the board.
+
+For the program and graph, I've drawn a blank on how to prove this.
+
+4)Creatively prove to us that you meet our value Ð Fire Ð that this would be more than just a job to you, and that you are passionate about us.
+
+First of all I don't want to send some standardized version of what a "resume" should be. There are a few things you should know, for one I love IGN, I've thought many times how it would be a dream come true to just experience working somewhere like that for even a few hours. I've checked for jobs there before but always seems to be about editors, which I am not. What I am however is a very passionate and creative web designer/developer. I am very confident in new trends and cutting edge design as well as constantly trying to better my code library. My main area of expertise when it comes to web code would be OOP, anything to do with flash I absolutely love, but I am also well versed in other languages such as HTML/CSS, Javascript, MXML, and XML. I could have taken the easy way out and became an accountant like my father, or just gone straight into home repair like the rest of my family, but somewhere along the road I decided I wanted something more, I wanted to be part of something, maybe not huge but at least 'bigger'. I've always loved art and I feel art comes to people in so many different ways, my art always seemed to come out on paper until someone introduced me to photoshop and the undo button, I love getting lost in code or the design, just sit for hours and not even realize the sun has gone down. My desire to better myself by not going to a traditional college and following my dream has paid off great so far, I do well for my age, however I'm not happy yet. The things I do on a daily basis are corporate, boring and honestly just a little too easy. I know if I stay where I am I will climb this corporate ladder because I'm good enough, but I don't care about the money, I want to be part of something else. I am tired of khakis and button down long sleeve shirts. I cant stand these business shoes with no treading on them (seriously whats the point here). In closing, this is literally a once in a lifetime opportunity for me. I've been trying to find a way to move to California or New York for a while now, and I know I will someday, but would love the opportunity to do it with IGN. I really want to learn and grow in this industry,I think this is a great way to do so, and I know I will fit in perfect.
+
